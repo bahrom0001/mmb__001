@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(157, 164, 254);
+}
+.p{
+    
+    text-align: center;
+    color: #ffffff;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+
+text-align: justify;
+    width: 636px;
+    height: 116px;
+    margin: 20px auto;
+    padding: 24px;
+    padding-left: 28px;
+    padding-right: 17px;
+    background: #311313;
+}
+.bola{
+    width: 896px;
+    height: 259px;
+margin: 0 auto;
+padding: 45px 52px;
+background: #1fe8b7;
+}
+.otaa{
+    padding: 45px 52px;
+    width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+}
